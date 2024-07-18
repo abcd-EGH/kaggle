@@ -6,6 +6,7 @@
 ## Dataset Information
 - sourced from [Binary Classification of Insurance Cross Selling](https://www.kaggle.com/competitions/playground-series-s4e7).
 - licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+- You can have and use more data [Health Insurance Cross Sell Prediction Data](https://www.kaggle.com/datasets/annantkumarsingh/health-insurance-cross-sell-prediction-data).
 
 ### Modifications
 - If any modifications were made to the original dataset, please describe them here.
