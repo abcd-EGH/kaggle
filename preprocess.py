@@ -68,7 +68,7 @@ def one_hot_encode(df_input, columns = ['Gender', 'Driving_License', 'Vehicle_Ag
         df[col] = df[col].astype(str)
     
     # Train 데이터에서 원핫 인코딩 수행
-    df_encoded = pd.get_dummies(df, columns=columns)
+    df_encoded = pd.get_dummies(df, columns=columns, drop_first=True)
     
     return df_encoded
 
